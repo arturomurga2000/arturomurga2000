@@ -10,7 +10,7 @@ I like figuring out how things work and what’s causing a problem. Outside of s
 A team project for browsing events and going through a demo ticket purchase. I worked on the storefront, event search, ticket selection, and shopping cart, along with styling and bug fixes.
 
 **[BigBuskingCougars](https://github.com/AustiNguyenJ/BigBuskingCougars)**  
-A VR game built in Unity. I helped troubleshoot issues, fix bugs, and work on the pause menu and settings UI.
+A VR game built in Unity with a team. I worked on the pause menu and settings UI, including sliders and menu navigation. I also fixed layout issues and bugs in how the menu behaved.
 
 **[Tower of Judgement](https://github.com/ricsf2000/tower-of-judgement)**  
-A 2D action-adventure game built in Unity. I helped troubleshoot issues, fix bugs, and work on the main menu.
+A 2D action-adventure game built in Unity with a team. I helped with the main menu, troubleshooting, and bug fixes. I also added background music and an enemy attack sound effect, and worked on an issue with a frozen enemy animation.
