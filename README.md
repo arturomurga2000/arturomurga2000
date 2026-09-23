@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I’m Arturo 👋
 
-<!--
-**arturomurga2000/arturomurga2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a college student majoring in computer science with a minor in philosophy. I’ve learned the basics of Python, C++, Java, and HTML through my classes and worked on team projects ranging from Unity games to a ticketing website.
 
-Here are some ideas to get you started:
+I like figuring out how things work and what’s causing a problem, whether I’m troubleshooting code or learning about cars. Outside of school, I enjoy building LEGO sets and learning how to fix things on cars.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects I’ve worked on
+
+**TicketQueue**  
+A website for buying tickets to concerts, games, shows, and other events. I worked on the shopping cart and purchasing functionality.
+
+**BigBuskingCougars**  
+A VR game built in Unity. I helped troubleshoot problems, fix bugs, and work on the pause menu and settings UI.
+
+**Tower of Judgement**  
+A 2D action-adventure game built in Unity. I helped troubleshoot issues, fix bugs, and work on the main menu.
