@@ -1,16 +1,16 @@
 # Hey, I’m Arturo 👋
 
-I’m a college student majoring in computer science with a minor in philosophy. I’ve learned the basics of Python, C++, Java, and HTML through my classes and worked on team projects ranging from Unity games to a ticketing website.
+I’m a college student majoring in computer science with a minor in philosophy. I’ve learned the basics of Python, C++, Java, and HTML through my classes and worked with classmates on Unity games and a ticketing website.
 
-I like figuring out how things work and what’s causing a problem, whether I’m troubleshooting code or learning about cars. Outside of school, I enjoy building LEGO sets and learning how to fix things on cars.
+I like figuring out how things work and what’s causing a problem. Outside of school, I enjoy building LEGO sets and learning more about cars, including how to troubleshoot and fix them.
 
 ### Projects I’ve worked on
 
-**TicketQueue**  
+**[TicketQueue](https://github.com/Toofie2/TicketQueue)**  
 A website for buying tickets to concerts, games, shows, and other events. I worked on the shopping cart and purchasing functionality.
 
-**BigBuskingCougars**  
-A VR game built in Unity. I helped troubleshoot problems, fix bugs, and work on the pause menu and settings UI.
+**[BigBuskingCougars](https://github.com/AustiNguyenJ/BigBuskingCougars)**  
+A VR game built in Unity. I helped troubleshoot issues, fix bugs, and work on the pause menu and settings UI.
 
-**Tower of Judgement**  
+**[Tower of Judgement](https://github.com/ricsf2000/tower-of-judgement)**  
 A 2D action-adventure game built in Unity. I helped troubleshoot issues, fix bugs, and work on the main menu.
