@@ -7,7 +7,7 @@ I like figuring out how things work and what’s causing a problem. Outside of s
 ### Projects I’ve worked on
 
 **[TicketQueue](https://github.com/Toofie2/TicketQueue)**  
-A website for buying tickets to concerts, games, shows, and other events. I worked on the shopping cart and purchasing functionality.
+A team project for browsing events and going through a demo ticket purchase. I worked on the storefront, event search, ticket selection, and shopping cart, along with styling and bug fixes.
 
 **[BigBuskingCougars](https://github.com/AustiNguyenJ/BigBuskingCougars)**  
 A VR game built in Unity. I helped troubleshoot issues, fix bugs, and work on the pause menu and settings UI.
